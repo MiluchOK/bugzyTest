@@ -37,6 +37,7 @@ GEM
     selenium-webdriver (3.14.1)
       childprocess (~> 0.5)
       rubyzip (~> 1.2, >= 1.2.2)
+    waitutil (0.2.1)
     watir (6.16.5)
       regexp_parser (~> 1.2)
       selenium-webdriver (~> 3.6)
@@ -49,6 +50,7 @@ DEPENDENCIES
   page-object (~> 2.2.6)
   rspec (~> 3.7.0)
   selenium-webdriver (~> 3.14.0)
+  waitutil (~> 0.2.1)
 
 BUNDLED WITH
    1.17.2
